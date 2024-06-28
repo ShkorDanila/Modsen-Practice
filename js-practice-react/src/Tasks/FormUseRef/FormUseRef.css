@@ -1,0 +1,6 @@
+.taskForm {
+    display: grid;
+    grid-auto-flow: row;
+    width: fit-content;
+    gap: 5px;
+}
